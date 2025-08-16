@@ -1,4 +1,14 @@
+// Data Types in JavaScript
+
+// Primitive data types in JavaScript :
+// String, Number, Boolean, Symbol, BigInt, Null, Undefined
+
+// Non primitive (reference data types) data types in JavaScript :
+// Arrays, Objects, Functions   
+
+
 //console.log("Sateep");
+
 let score = 93
 let isPassed = false;
 
